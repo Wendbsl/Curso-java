@@ -4,8 +4,8 @@ public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
 		// isso é um comentário
-		System.out.println("Primeiro Programa!!!");
+		System.out.println("Primeiro Programa Parte #01!");
+		System.out.println("Primeiro Programa Parte #02!");
 
 	}
-
 }
